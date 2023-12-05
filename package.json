@@ -6,7 +6,8 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "day1": "npx jiti day1/calibration.ts"
+    "day1": "npx jiti day1/calibration.ts",
+    "day2": "npx jiti day2/cubegame.ts"
   },
   "keywords": [],
   "author": "",
